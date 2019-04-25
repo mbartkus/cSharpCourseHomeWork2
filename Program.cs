@@ -9,7 +9,7 @@ namespace ND2_magicnumber
 
 
               for (int i= 100000; i<166666;i++)
-            // (int i = 142856; i < 142858; i++)
+            
             {
                 
 
